@@ -1,0 +1,22 @@
+{
+  "name": "simple-api-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwinteringham/simple-api-monitor.git"
+  },
+  "author": "Mark Winteringham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mwinteringham/simple-api-monitor/issues"
+  },
+  "homepage": "https://github.com/mwinteringham/simple-api-monitor#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
